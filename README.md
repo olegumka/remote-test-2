@@ -3,3 +3,6 @@
 Some text in Readme file
 
 Add some documentation
+
+
+NEW TEXT
